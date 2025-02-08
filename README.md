@@ -14,6 +14,18 @@ I’m a developer passionate about building efficient systems!<br><br>Currently 
 ## Slithering through the code, one dot at a time 🐍
 ![Snake animation](https://raw.githubusercontent.com/shrunk7byadagi/shrunk7byadagi/output/github-contribution-grid-snake.svg)
 
+### 🔝 Reachout to discuss about
+<table>
+  <tr>
+    <th align="center">Workflow/Camunda/BPMN</th>
+    <th align="center">Web-App Development</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/8a99c605-5a2e-432c-a1ca-9b3f7edd787c" width="50%"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/febf94f2-2cbb-4e57-9b52-71650f34ffa4" width="50%"></td>
+  </tr>
+</table>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shrunk7byadagi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shrunk7byadagi&theme=dark&hide_border=false)<br/>
@@ -27,6 +39,8 @@ I’m a developer passionate about building efficient systems!<br><br>Currently 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shrunk7byadagi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 
 
 [![](https://visitcount.itsvg.in/api?id=shrunk7byadagi&icon=0&color=0)](https://visitcount.itsvg.in)
