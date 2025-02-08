@@ -15,8 +15,8 @@ I’m a developer passionate about building efficient systems!<br><br>Currently 
     <th align="center">Web-App Development</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/8a99c605-5a2e-432c-a1ca-9b3f7edd787c" width="50%"></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/febf94f2-2cbb-4e57-9b52-71650f34ffa4" width="50%"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/8a99c605-5a2e-432c-a1ca-9b3f7edd787c" ></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/95783fcd-d266-49d3-9cd4-6c71a2acf29c" ></td>
   </tr>
 </table>
 
