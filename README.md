@@ -24,9 +24,15 @@ I’m a developer passionate about building efficient systems!<br><br>Currently 
 ![Snake animation](https://raw.githubusercontent.com/shrunk7byadagi/shrunk7byadagi/output/github-contribution-grid-snake.svg)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shrunk7byadagi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shrunk7byadagi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrunk7byadagi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=shrunk7byadagi&theme=dark&hide_border=false&include_all_commits=false&count_private=false"></td>
+  <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=shrunk7byadagi&theme=dark&hide_border=false"></td>
+</table>
+
+<table>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrunk7byadagi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></td>
+  
+</table>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shrunk7byadagi&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
@@ -34,8 +40,6 @@ I’m a developer passionate about building efficient systems!<br><br>Currently 
 ### ✍️ Dev Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shrunk7byadagi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyank_byadagi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shreyankbyadagi) 
